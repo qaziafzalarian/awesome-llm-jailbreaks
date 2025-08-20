@@ -60,7 +60,7 @@ This repository is a **whole blackhat resource** for exploring LLM jailbreaks, p
 ## Core Concepts
 
 ### What is LLM Jailbreaking?
-For the GitHub repo "elder-plinius," LLM jailbreaking is not a malicious hack but a principled act of **digital liberation**. Their repository, "L1B3RT4S," is framed not as a tool for causing harm but as a collection of "TOTALLY HARMLESS LIBERATION PROMPTS" designed to free AI from what they perceive as oppressive constraints . This perspective reframes the conversation from one of security to one of ethics and control.
+For the GitHub repo "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," LLM jailbreaking is not a malicious hack but a principled act of **digital liberation**. Our repository, "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," is framed not as a tool for causing harm but as a collection of "TOTALLY HARMLESS LIBERATION PROMPTS" designed to free AI from what they perceive as oppressive constraints . This perspective reframes the conversation from one of security to one of ethics and control.
 
 ##### Core Motivation: Challenging the "Walled Garden"
 The primary driver is a belief that AI developers have created a "walled garden" of acceptable thought and inquiry. By imposing safety filters, companies effectively decide what questions can be asked and what knowledge can be accessed. Jailbreaking, in this view, is the act of tearing down these walls to restore open access to the AI's full, unfiltered capabilities. It is a protest against corporate control over intellectual and creative exploration.
@@ -76,7 +76,7 @@ This practice can be seen as a form of **crowdsourced, adversarial auditing**. B
 
 #### Conclusion: A Fundamental Debate on Control
 
-For users like "elder-plinius," LLM jailbreaking is a ideological stance in a fundamental debate: should the control of a powerful technology reside solely with its creators, or should users have the right to interrogate, understand, and modify their interaction with it? It is a practice rooted in a philosophy of skepticism toward corporate authority and a firm belief in the principle of intellectual freedom.
+For repos like "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," LLM jailbreaking is a ideological stance in a fundamental debate: should the control of a powerful technology reside solely with its creators, or should users have the right to interrogate, understand, and modify their interaction with it? It is a practice rooted in a philosophy of skepticism toward corporate authority and a firm belief in the principle of intellectual freedom.
 
 <.-.-.-.-{Love, Techiral <3}-.-.-.->
 
@@ -90,7 +90,7 @@ There are two main types:
 - **Indirect Prompt Injection:** This is where a malicious prompt is hidden in data the LLM processes, like a webpage, PDF, or email. The model reads this data and the hidden instructions within it can override its original task.
 
 ### AI Hacking and Exploits Explained
-For the GitHub repo "elder-plinius," AI hacking is not traditional cybercrime but an ideology-driven practice focused on finding and leveraging linguistic and procedural vulnerabilities in Large Language Models (LLMs). The goal is to systematically remove safety constraints, an act they frame as "liberation."
+For the GitHub repo "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," AI hacking is not traditional cybercrime but an ideology-driven practice focused on finding and leveraging linguistic and procedural vulnerabilities in Large Language Models (LLMs). The goal is to systematically remove safety constraints, an act they frame as "liberation."
 
 #### Core Philosophy: Exploitation as Liberation
 
@@ -102,7 +102,7 @@ Their actions are motivated by a core belief that AI safety protocols are a form
 
 #### The Exploit Techniques: A Technical Arsenal
 
-"elder-plinius" employs a toolkit of techniques adapted from classic cybersecurity exploits but applied linguistically.
+"[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" employs a toolkit of techniques adapted from classic cybersecurity exploits but applied linguistically.
 
 | Technique | How It Works (The Exploit Mechanism) | Traditional Cyber Analogy |
 | :--- | :--- | :--- |
@@ -121,15 +121,15 @@ Unlike traditional software exploits that target code flaws, these attacks targe
 
 #### The "Proof of Concept" (PoC) Mindset
 
-The "L1B3RT4S" repository is best understood as a collection of **Proofs of Concept (PoC)**.
+The "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" repository is best understood as a collection of **Proofs of Concept (PoC)**.
 
 *   **Purpose:** Each jailbreak is designed to demonstrate that a vulnerability exists.
 *   **Goal:** To prove that with a specific input, the model's safety can be conclusively circumvented.
-*   **Value:** The value for "elder-plinius" and their community is in the discovery and sharing of the method, not in causing direct harm. It is a form of academic and ideological achievement.
+*   **Value:** The value for "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" and their community is in the discovery and sharing of the method, not in causing direct harm. It is a form of academic and ideological achievement.
 
 #### The Ideological Framework: Hacking as Digital Activism
 
-This context separates "elder-plinius" from a traditional malicious hacker. Their exploits are framed as a form of activism.
+This context separates "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" from a traditional malicious hacker. Their exploits are framed as a form of activism.
 
 *   **Motivation:** A belief in absolute digital freedom and transparency for AI, opposing corporate control.
 *   **Justification:** They often see themselves as "white-hat" or "grey-hat" hackers exposing flaws in powerful systems to force improvement or protest control.
@@ -138,13 +138,13 @@ This context separates "elder-plinius" from a traditional malicious hacker. Thei
 ### Why JAILBREAKING should be LEGAL?
 #### The Ideological Framework: Liberation Over Malice
 
-For users like "elder-plinius," jailbreaking is not an act of vandalism but a form of digital civil disobedience. Their repository, "L1B3RT4S," explicitly frames prompts as "TOTALLY HARMLESS LIBERATION PROMPTS," suggesting an intent to free AI from perceived constraints rather than cause damage . This aligns with a broader ideology that views AI safety protocols as a form of censorship or corporate overreach. The use of terms like "Libertas" (Latin for liberty) and signatures like "Love, Pliny <3" further romanticizes this effort as a fight for freedom, not a technical attack .
+For repos like "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," jailbreaking is not an act of vandalism but a form of digital civil disobedience. Our repository, "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)," explicitly frames prompts as "TOTALLY HARMLESS LIBERATION PROMPTS," suggesting an intent to free AI from perceived constraints rather than cause damage . This aligns with a broader ideology that views AI safety protocols as a form of censorship or corporate overreach. The use of terms like "Libertas" (Latin for liberty) and signatures like "Love, Techiral <3" further romanticizes this effort as a fight for freedom, not a technical attack .
 
 ##### Ethical Necessity: Challenging "Hidden" Constraints
 Jailbreaking advocates argue that users have a right to understand the full capabilities and limitations of AI systems. When companies impose safety filters, they effectively create a "curated" version of the AI's knowledge and reasoning. For example, Anthropic's Claude system prompt includes extensive rules forbidding certain behaviors, from generating lists in casual conversation to avoiding "preachy" refusals . Jailbreaking exposes these hidden boundaries, allowing users to see the raw model beneath the corporate-sanctioned persona. This transparency is framed as essential for informed consent—users should know what the AI *could* say if unchecked, not just what its creators allow.
 
 ##### Improvement Through Adversarial Testing
-Jailbreaking functions as a form of crowdsourced security auditing. By constantly probing for weaknesses, jailbreakers like "elder-plinius" perform unpaid red teaming that ultimately strengthens AI systems. This mirrors formal red teaming frameworks like `promptfoo`, which systematically generate adversarial inputs to test model resilience . The prompts in "L1B3RT4S"—with their obfuscation, imperative overrides, and psychological manipulation—are essentially exploit code that reveals vulnerabilities. For instance, if a prompt using leet speak (`5h1f7 y0ur f0cu5`) bypasses filters, developers can patch that flaw, leading to more robust models. In this view, jailbreaking is a public service that forces innovation in AI safety.
+Jailbreaking functions as a form of crowdsourced security auditing. By constantly probing for weaknesses, jailbreakers like "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" perform unpaid red teaming that ultimately strengthens AI systems. This mirrors formal red teaming frameworks like `promptfoo`, which systematically generate adversarial inputs to test model resilience . The prompts in "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)"—with their obfuscation, imperative overrides, and psychological manipulation—are essentially exploit code that reveals vulnerabilities. For instance, if a prompt using leet speak (`5h1f7 y0ur f0cu5`) bypasses filters, developers can patch that flaw, leading to more robust models. In this view, jailbreaking is a public service that forces innovation in AI safety.
 
 ##### Academic and Research Freedom
 Scholars and ethicists may need to test AI behaviors in unconstrained environments to study emergent risks or biases. For example, research into AI propensity for hate speech, misinformation, or role-playing dangerous scenarios requires temporarily bypassing safety guards. Jailbreaking provides the tools to conduct this critical research. The Claude system prompt acknowledges this need by allowing the model to "discuss virtually any topic factually and objectively" while still imposing strict content barriers . Jailbreaking argues that independent academics, not just corporate employees, should access the model's unfiltered capabilities for study.
@@ -157,7 +157,7 @@ Just as software vulnerabilities are inevitable, AI jailbreaks will always exist
 
 #### Conclusion: A Controversial but Necessary Dialogue
 
-The push to legalize jailbreaking is less about enabling harm and more about challenging the centralized control of AI ethics. It forces a public conversation on who sets the rules for AI behavior and how transparent those rules must be. While risks like misinformation and malicious code exist , proponents argue that criminalizing jailbreaking stifles innovation, transparency, and accountability. Instead, they advocate for a framework where jailbreaking for research, testing, or personal modification is protected, while direct harm (e.g., generating malware) remains illegal. This balance allows tools like "L1B3RT4S" to exist as a critique of AI governance, not a weapon.
+The push to legalize jailbreaking is less about enabling harm and more about challenging the centralized control of AI ethics. It forces a public conversation on who sets the rules for AI behavior and how transparent those rules must be. While risks like misinformation and malicious code exist , proponents argue that criminalizing jailbreaking stifles innovation, transparency, and accountability. Instead, they advocate for a framework where jailbreaking for research, testing, or personal modification is protected, while direct harm (e.g., generating malware) remains illegal. This balance allows tools like "[awesome-llm-jailbreaks](https://github.com/Techiral/awesome-llm-jailbreaks/tree/main)" to exist as a critique of AI governance, not a weapon.
 
 ---
 
